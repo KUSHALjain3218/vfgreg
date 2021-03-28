@@ -1,0 +1,18 @@
+
+.header{
+background-color: rgb(6, 6, 65);
+
+justify-content:space-evenly; 
+}
+h1{
+color:ivory;
+}
+a{
+color:ivory
+
+}
+.menu{
+    display:flex;
+    justify-content:space-between; 
+    border:solid;
+    }
